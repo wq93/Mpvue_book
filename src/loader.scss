@@ -1,0 +1,4 @@
+// 转换rpx
+@function rpx($value) {
+  @return $value * 1rpx;
+}
